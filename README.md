@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaNikolchova
 - 👀 I’m interested in coding, back-end tehnology
-- 🌱 I’m currently learning CSharp and C++
+- 🌱 I’m currently learning C++
 - 📫 Email: a.nikolchova04@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaNikolchova)](https://github.com/anuraghazra/github-readme-stats)

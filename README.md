@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @AndreaNikolchova
 - 👀 I’m interested in coding, back-end tehnology
+- Currenly taking ReactJS course @ SoftUni and Python in university
+- Student at UniBit with Computer science
 - 📫 Email: a.nikolchova04@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaNikolchova)](https://github.com/anuraghazra/github-readme-stats)
